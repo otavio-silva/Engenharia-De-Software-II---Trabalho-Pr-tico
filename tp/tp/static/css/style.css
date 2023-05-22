@@ -1,0 +1,35 @@
+body{
+    background-color: #161316;
+}
+.text-center{
+    color: #FFFAFF;
+    padding: 16px;
+}
+
+#main_image{
+    width: 40%;
+    height: 40%;
+
+}
+
+p, h2, h3{
+    color: #FFFAFF;
+    padding: 16px;
+    text-align: justify;
+}
+
+#refresh{
+    margin-top: 16px;
+    width: 300px;
+    height: 64px;
+    background-color: #A882DD;
+    border: #A882DD;
+}
+
+#download{
+    margin-top: 24px;
+    width: 300px;
+    height: 64px;
+    background-color:#006C67;
+    border:#006C67;
+}
